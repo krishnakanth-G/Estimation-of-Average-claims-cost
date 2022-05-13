@@ -1,4 +1,4 @@
-# Estimation of Average claim cost
+# Estimation of Average claims cost
 
 ![alt text](https://github.com/krishnakanth-G/Estimation-of-average-claim-cost/blob/main/certificate.png)
 
