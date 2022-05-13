@@ -1,4 +1,4 @@
-# Estimation of Average claim cost and fatal count
+# Estimation of Average claim cost
 
 ![alt text](https://github.com/krishnakanth-G/Estimation-of-average-claim-cost/blob/main/certificate.png)
 
