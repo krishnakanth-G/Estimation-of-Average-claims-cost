@@ -5,7 +5,7 @@ The aim of the project is to estimate the claim cost for automobile crashes. Mai
 2. Implementation of Generalized linear models with suitable distribution and Artificial
 neural network that fits the automobile crashes data.
 3. comparative study between the relevant models.
-4. Interpreting models with Local Interpretable Model-agnostic Explanations
+4. Interpreting models with Local Interpretable Model-agnostic Explanations.
 
 ![alt text](https://github.com/krishnakanth-G/Estimation-of-average-claim-cost/blob/main/certificate.png)
 
